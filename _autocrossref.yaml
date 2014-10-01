@@ -114,8 +114,7 @@ op codes: op code
 '`op_hash160`': op_hash160
 '`op_return`': op_return
 '`op_verify`': op_verify
-orphan:
-orphaned: orphan
+stale blocks:
 outputs: output
 output:
 output index:
